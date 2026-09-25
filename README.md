@@ -1,29 +1,32 @@
-<img src="./assets/coastle_logo.png" width="600"/>
-A semi-possible coaster guessing game made using JavaScript and HTML
+# Loopster
 
-Deployed at https://pkyu.github.io/coastle/
+Vous connaissez Tusmo ? Vous aimez les coasters et les parc d'attractions ?
+Bienvenue dans Loopster ! 
 
-# Gameplay / Features
-### Guess the coaster by narrowing down its stats using the stats of other coasters
-<img src="https://user-images.githubusercontent.com/55111674/230286525-70f8f677-5b88-4df3-866b-22aab6b580d0.gif" width="600">
+## Checklist des features
 
-### Unlock various hints as you play to help narrow down your choices
-<img src="https://user-images.githubusercontent.com/55111674/230287968-6bbdf24b-146e-464f-b26a-dd1b6978f152.gif" width="600">
-
-### Track your stats between two different gamemodes
-<img src="https://user-images.githubusercontent.com/55111674/230288517-c64812d7-a375-4495-b1f4-c2c69b577403.png" width="600">
-
-### Easily watch POVs to re-experience a ride or learn about a new coaster when finished
-<img src="https://user-images.githubusercontent.com/55111674/230293756-89422dcb-fbad-4852-95a9-af15ac0cfd2c.gif" width="600">
-
-### Multiple ways to export your stats to compare how you did with others
-Look at people suffering here: https://twitter.com/search?q=coastle&src=spelling_expansion_revert_click&f=live
-
-<img src="https://user-images.githubusercontent.com/55111674/230291469-b2cd9c9b-3237-42b1-bb8e-09e6915775ed.png" width="500">
-
-### Playable at link below
-https://pkyu.github.io/coastle
+### Mode normal :
+- Deviner un coaster
+- Afficher les stats correspondantes à chaque essai
+- Débloquer des indices
+- Effets de victoires + Pop-up
+- Partager son résultat du jour
 
 
-### Future Features
-- Daily achievement center to showcase coasters you've gotten right (stats for this are being kept track of)
+### Mode suite :
+- Deviner 5 coasters
+- Afficher les stats correspondantes à chaque essai
+- Débloquer des indices
+- Effets de victoires + Pop-up
+- Partager son résultat du jour
+
+### Statistiques
+- Tracker les stats pour chaque mode
+- Streak pour ceux qui jouent chaque jour etc
+- Regarder les classements du jour (ceux qui ont battu le résultat en moins de guess possible)
+
+### Profils
+- Création de profils
+- Ajour d'amis
+- Classement amical
+- Pouvoir poke ses amis pour le défi du jour (envoi de mail ?)
