@@ -4,8 +4,7 @@ import { compareCoasters } from './utils/compareCoasters'
 import { formatHeight, formatLength, formatSpeed } from './utils/units'
 import type { GuessResult } from './types/coaster'
 
-// Réponse fixe pendant les tests, pour pouvoir vérifier la logique
-// à la main. On la randomisera une fois que ça marche.
+// Réponse fixe pendant les tests
 const ANSWER = coasters.find((c) => c.id === 'toutatis')!
 
 const useMetric = true
