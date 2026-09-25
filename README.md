@@ -1,7 +1,7 @@
-# Coasto
+# Loopster
 
 Vous connaissez Tusmo ? Vous aimez les coasters et les parc d'attractions ?
-Bienvenue dans Coasto ! 
+Bienvenue dans Loopster ! 
 
 ## Checklist des features
 
