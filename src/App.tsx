@@ -58,7 +58,7 @@ function App() {
           >
             {coasters.map((c) => (
               <option key={c.id} value={c.id}>
-                {c.name} — {c.park}
+                {c.name} - {c.park}
               </option>
             ))}
           </select>
